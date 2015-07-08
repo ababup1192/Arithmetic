@@ -1,0 +1,6 @@
+-classpath '/Users/watanabemirai/Desktop/arithmetic/build/classes/main:/Users/watanabemirai/Desktop/arithmetic/build/resources/main'
+-d '/Users/watanabemirai/Desktop/arithmetic/build/docs/javadoc'
+-doctitle 'arithmetic 1.0-SNAPSHOT API'
+-quiet 
+-windowtitle 'arithmetic 1.0-SNAPSHOT API'
+'/Users/watanabemirai/Desktop/arithmetic/src/main/java/org/ababup1192/Arith.java'
