@@ -21,6 +21,6 @@ build:
     # http://devcenter.wercker.com/docs/steps/index.html
   steps:
     - script:
-        name: echo
+        name: build
         code: |
-          echo "hello world!"
+          gradlew build
