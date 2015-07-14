@@ -21,7 +21,11 @@ public class Arith {
      * @return ２つの数の和
      */
     public static int divide(int x, int y) {
-        return x / y;
+        if(y == 0){
+            return 0;
+        }else {
+            return x / y;
+        }
     }
 
 

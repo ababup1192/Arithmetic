@@ -28,12 +28,11 @@
       <file leaf-file-name="Arith.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/ababup1192/Arith.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.5493631">
-              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.5732484">
+              <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
                 <element signature="e#201#202#0" expanded="true" />
                 <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#412#413#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -765,12 +764,12 @@
       <option name="number" value="Default" />
       <updated>1436364176528</updated>
       <workItem from="1436364179863" duration="795000" />
-      <workItem from="1436851974206" duration="461000" />
+      <workItem from="1436851974206" duration="568000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1256000" />
+    <option name="totallyTimeSpent" value="1363000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="381" y="100" width="1280" height="774" extended-state="0" />
@@ -827,7 +826,6 @@
           <folding>
             <element signature="e#201#202#0" expanded="true" />
             <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -878,12 +876,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/ababup1192/Arith.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5493631">
-          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.5732484">
+          <caret line="24" column="9" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
           <folding>
             <element signature="e#201#202#0" expanded="true" />
             <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
           </folding>
         </state>
       </provider>
