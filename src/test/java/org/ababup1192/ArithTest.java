@@ -16,4 +16,10 @@ public class ArithTest {
     public void testDivide() throws Exception {
         assertThat(Arith.divide(4, 2), is(2));
     }
+
+    @Test
+    public void testDivideByZero() throws Exception {
+        assertThat(Arith.divide(4, 0), is(0));
+    }
+
 }

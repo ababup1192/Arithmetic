@@ -28,12 +28,11 @@
       <file leaf-file-name="Arith.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/org/ababup1192/Arith.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.477707">
-              <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+            <state vertical-scroll-proportion="0.5493631">
+              <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
               <folding>
                 <element signature="e#201#202#0" expanded="true" />
                 <element signature="e#229#230#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
                 <element signature="e#412#413#0" expanded="true" />
               </folding>
             </state>
@@ -44,7 +43,7 @@
         <entry file="file://$PROJECT_DIR$/src/test/java/org/ababup1192/ArithTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -296,6 +295,14 @@
       </map>
     </option>
   </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/org/ababup1192/ArithTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/ababup1192/Arith.java" />
+      </list>
+    </option>
+  </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
@@ -311,8 +318,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="85" />
-    <option name="y" value="35" />
+    <option name="x" value="381" />
+    <option name="y" value="100" />
     <option name="width" value="1280" />
     <option name="height" value="774" />
   </component>
@@ -758,15 +765,15 @@
       <option name="number" value="Default" />
       <updated>1436364176528</updated>
       <workItem from="1436364179863" duration="795000" />
-      <workItem from="1436851974206" duration="31000" />
+      <workItem from="1436851974206" duration="461000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="826000" />
+    <option name="totallyTimeSpent" value="1256000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="85" y="35" width="1280" height="774" extended-state="0" />
+    <frame x="381" y="100" width="1280" height="774" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -820,7 +827,6 @@
           <folding>
             <element signature="e#201#202#0" expanded="true" />
             <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
             <element signature="e#412#413#0" expanded="true" />
           </folding>
         </state>
@@ -865,19 +871,18 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/org/ababup1192/ArithTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/org/ababup1192/Arith.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.477707">
-          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        <state vertical-scroll-proportion="0.5493631">
+          <caret line="23" column="4" selection-start-line="23" selection-start-column="4" selection-end-line="23" selection-end-column="4" />
           <folding>
             <element signature="e#201#202#0" expanded="true" />
             <element signature="e#229#230#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
             <element signature="e#412#413#0" expanded="true" />
           </folding>
         </state>
